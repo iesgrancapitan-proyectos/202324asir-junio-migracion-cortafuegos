@@ -6,7 +6,7 @@ El proyecto se realizará haciendo uso de PfSense como cortafuegos, las 3 redes 
 sabiendo esto, la plataforma de virtualización que alberga el cortafuegos es Proxmox, la principal finalidad de este proyecto sería mejorar la alta disponibilidad y la eficiencia de la red del instituto y facilitando el acceso a las máquinas virtuales sin comprometer la seguridad.
 
 ## Información sobre su uso
-El uso del cortafuegos queda registrado en los siguientes [manuales]() proporcionados por los autores el proyecto.
+El uso del cortafuegos queda registrado en los siguientes [manuales](manuales.md) proporcionados por los autores el proyecto.
 
 ## Autores
 - Marcos Cáceres García
