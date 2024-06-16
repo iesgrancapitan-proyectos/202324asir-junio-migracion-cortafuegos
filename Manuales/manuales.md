@@ -1,6 +1,6 @@
 # Manuales
 
-- [Implementación de grupo de gateway.](Manuales\grupo_gateway\Creacion_grupo_gateway_HA.md)
+- [Implementación de grupo de gateway.](Manuales/grupo_gateway/Creacion_grupo_gateway_HA.md)
 
 - [Configuuración de cortafuegos redundante usando CARP.](HA_cortafuegos_redundante_pfSense\HA_cortafuegos_redundante_pfSense.md)
 
