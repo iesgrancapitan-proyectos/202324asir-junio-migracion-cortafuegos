@@ -1,8 +1,8 @@
 # Manuales
 
-- [Implementación de grupo de gateway.](Manuales\Creacion_grupo_gateway_HA\Creacion_grupo_gateway_HA.md)
+- [Implementación de grupo de gateway.](Creacion_grupo_gateway_HA\Creacion_grupo_gateway_HA.md)
 
-- [Configuuración de cortafuegos redundante usando CARP.](Manuales\HA_cortafuegos_redundante_pfSense\HA_cortafuegos_redundante_pfSense.md)
+- [Configuuración de cortafuegos redundante usando CARP.](HA_cortafuegos_redundante_pfSense\HA_cortafuegos_redundante_pfSense.md)
 
 - [Creación de reglas para el acceso por dnat y configuración de proxy.](Manuales\Migración_Proxy_DNAT_cortafuegos\Migración_Proxy_DNAT_cortafuegos.md)
 
