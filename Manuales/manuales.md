@@ -11,3 +11,9 @@
 - [Añadir redes a pfSense.](./añadir_lan/añadir_lan.md)
 
 - [Implementación básica del arranque por red sobre Calisto.](./implementacion_basica_arranque_red/implementacion_basica.pdf)
+
+- [Implementación del arranque por red en todas las aulas.](./implementacion_aulas/implementacion_todas_aulas.pdf)
+
+- [Configuración de la herramienta Clonezilla](./configuracion_clonezilla/configurar_clonezilla.pdf)
+
+- [Recuperación del sistema operativo](./recuperacion_sistema_operativo/recuperacion_sistema.pdf)
