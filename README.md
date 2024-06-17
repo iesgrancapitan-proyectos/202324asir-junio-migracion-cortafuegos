@@ -10,7 +10,7 @@ El uso del cortafuegos queda registrado en los siguientes [manuales](./Manuales/
 
 ## Recursos
 - [Presentación](https://www.canva.com/design/DAGIY0P5xcE/nZF6Z_NZ1TNTgcn6h4UiWQ/edit?utm_content=DAGIY0P5xcE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Documentación](Documentación FINAL.pdf)
+- [Documentación](./Documentación.pdf)
 
 ## Autores
 - Marcos Cáceres García
