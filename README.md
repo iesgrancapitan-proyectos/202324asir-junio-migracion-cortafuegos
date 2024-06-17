@@ -8,8 +8,12 @@ sabiendo esto, la plataforma de virtualización que alberga el cortafuegos es Pr
 ## Información sobre su uso
 El uso del cortafuegos queda registrado en los siguientes [manuales](./Manuales/manuales.md) proporcionados por los autores el proyecto.
 
+## Recursos
+- [Presentación](https://www.canva.com/design/DAGIY0P5xcE/nZF6Z_NZ1TNTgcn6h4UiWQ/edit?utm_content=DAGIY0P5xcE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Documentación](./"Documentación FINAL.pdf")
+
 ## Autores
 - Marcos Cáceres García
 - Pablo Valencia Palomino
-
+- 
 
